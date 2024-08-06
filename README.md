@@ -32,9 +32,12 @@ Secondly, I used Apache PDFBox to create and save a PDF receipt model, so that t
 Lastly, I decided to add some statistics to the system, so that the store had a way of knowing which was the most rented bike model or the most frequent customer. This is a good business practice cause it allows managers to have a better understanding of their business and how to improve based upon that.
 However, at this time the data is only saved locally.
 
-To-Do List:
+
+![image](https://github.com/user-attachments/assets/379ee3a6-ccbf-440f-8c35-b2ffd29bbf58)
+
+# To-Do List:
 
 - [ ] Implement SQL database integration
 
-![image](https://github.com/user-attachments/assets/379ee3a6-ccbf-440f-8c35-b2ffd29bbf58)
+
 
